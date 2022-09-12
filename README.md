@@ -1,2 +1,1 @@
-# houserent
-details
+# HouseRent
